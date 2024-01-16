@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![](https://i.ibb.co/Z2yKGPg/2.png)
+
+<span align="right" alt="Coding" width="400" >![](https://i.ibb.co/G0pW5GS/img.gif) </span>
 <!--
 **rashidulislam71/rashidulislam71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
