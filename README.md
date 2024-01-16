@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Rashidul Islam</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 <div display= "flex", justify-content="center"> 
-  <img src"https://i.ibb.co/Z2yKGPg/2.png">
-  <img src"https://i.ibb.co/G0pW5GS/img.gif">
+  ![](https://i.ibb.co/Z2yKGPg/2.png)
+  ![](https://i.ibb.co/G0pW5GS/img.gif)
 </div>
 
 
