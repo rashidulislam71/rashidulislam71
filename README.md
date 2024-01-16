@@ -1,8 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Md. Rashidul Islam</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
-![](https://i.ibb.co/Z2yKGPg/2.png)
-<span align="right" alt="Coding" width="300" >![](https://i.ibb.co/G0pW5GS/img.gif) </span>
+<div display= "flex", justify-content="center"> 
+  <img src"https://i.ibb.co/Z2yKGPg/2.png">
+  <img src"https://i.ibb.co/G0pW5GS/img.gif">
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rashidulislam71/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rashidulislam71/" height="30" width="40" /></a>
