@@ -10,8 +10,8 @@
  💬 Ask me about **React and JavaScript**
 
  📫 How to reach me **jrashidulislam0103@gmail.com**
-
 ⚡ Fun fact **I am funny**
+
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
