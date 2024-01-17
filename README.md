@@ -6,15 +6,15 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidulislamg71&label=Profile%20views&color=0e75b6&style=flat" alt="rashidulislamg71" /> </p>
+<p align="left"color="green"> <img src="https://komarev.com/ghpvc/?username=rashidulislamg71&label=Profile%20views&color=0e75b6&style=flat" alt="rashidulislamg71" /> </p>
 
 - 💬 Ask me about **React and JavaScript**
 
 - 📫 How to reach me **jrashidulislam0103@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-- 
-![](https://komarev.com/ghpvc/?username=rashidulislam71&color=green)
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,10 +31,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidulislamg71&" alt="rashidulislamg71" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidulislam71)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidulislamg71)
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidulislam71&show_icons=true&count_private=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidulislamg71&show_icons=true&count_private=true) 
 <br/>
 
 
