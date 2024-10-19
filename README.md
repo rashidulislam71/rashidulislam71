@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md. Rashidul Islam</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 
-<img src="https://i.ibb.co/wpv1Yyf/1.png">
+
 <img align="right" alt="coding" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
 <br/>
 <p> <img src="https://komarev.com/ghpvc/?username=rashidulislamg71&color=green"> </p>
